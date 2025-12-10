@@ -1,0 +1,7 @@
+*.dll
+*.lib
+build/
+.vscode/
+*.aps
+pdb*
+*.pdb
